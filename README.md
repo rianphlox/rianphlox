@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rianphlox
 - 👀 I’m interested in Blochain Technologies, App Development
-- 🌱 I’m currently learning Laravel, Solidity
+- 🌱 I use Laravel, PHP, Python, Solidity and of course JS.✌
 - 💞️ I’m looking to collaborate on Flutter and Solidity.
 - 📫 How to reach me? You can't. At least, for now.
 
